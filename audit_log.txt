@@ -1,0 +1,186 @@
+2023-08-26 10:00:25,843 - INFO - User 'username' logged in.
+2023-08-26 10:00:25,843 - INFO - Loaded data from CSV file.
+2023-08-26 10:00:25,843 - INFO - Performed data preprocessing.
+2023-08-26 10:00:25,843 - INFO - Trained the linear regression model.
+2023-08-26 10:00:25,843 - INFO - Generated predictions using the model.
+2023-08-26 10:00:25,843 - WARNING - Invalid input provided by the user.
+2023-08-26 10:02:45,721 - INFO - User 'username' logged in.
+2023-08-26 10:02:45,721 - INFO - Loaded data from CSV file.
+2023-08-26 10:02:45,721 - INFO - Performed data preprocessing.
+2023-08-26 10:02:45,721 - INFO - Trained the linear regression model.
+2023-08-26 10:02:45,722 - INFO - Generated predictions using the model.
+2023-08-26 10:02:45,722 - WARNING - Invalid input provided by the user.
+2023-08-26 10:09:19,788 - INFO - User 'username' logged in.
+2023-08-26 10:09:19,789 - INFO - Loaded data from CSV file.
+2023-08-26 10:09:19,789 - INFO - Performed data preprocessing.
+2023-08-26 10:09:19,789 - INFO - Trained the linear regression model.
+2023-08-26 10:09:19,789 - INFO - Generated predictions using the model.
+2023-08-26 10:09:19,789 - WARNING - Invalid input provided by the user.
+2023-08-26 10:13:49,025 - INFO - User 'username' logged in.
+2023-08-26 10:13:49,025 - INFO - Loaded data from CSV file.
+2023-08-26 10:13:49,025 - INFO - Performed data preprocessing.
+2023-08-26 10:13:49,026 - INFO - Trained the linear regression model.
+2023-08-26 10:13:49,026 - INFO - Generated predictions using the model.
+2023-08-26 10:13:49,026 - WARNING - Invalid input provided by the user.
+2023-08-26 10:15:07,989 - INFO - User 'username' logged in.
+2023-08-26 10:15:07,989 - INFO - Loaded data from CSV file.
+2023-08-26 10:15:07,989 - INFO - Performed data preprocessing.
+2023-08-26 10:15:07,989 - INFO - Trained the linear regression model.
+2023-08-26 10:15:07,989 - INFO - Generated predictions using the model.
+2023-08-26 10:15:07,989 - WARNING - Invalid input provided by the user.
+2023-08-26 10:26:13,907 - INFO - User 'username' logged in.
+2023-08-26 10:26:13,908 - INFO - Loaded data from CSV file.
+2023-08-26 10:26:13,908 - INFO - Performed data preprocessing.
+2023-08-26 10:26:13,908 - INFO - Trained the linear regression model.
+2023-08-26 10:26:13,908 - INFO - Generated predictions using the model.
+2023-08-26 10:26:13,908 - WARNING - Invalid input provided by the user.
+2023-08-26 10:32:05,945 - INFO - User 'username' logged in.
+2023-08-26 10:32:05,945 - INFO - Loaded data from CSV file.
+2023-08-26 10:32:05,945 - INFO - Performed data preprocessing.
+2023-08-26 10:32:05,945 - INFO - Trained the linear regression model.
+2023-08-26 10:32:05,945 - INFO - Generated predictions using the model.
+2023-08-26 10:32:05,945 - WARNING - Invalid input provided by the user.
+2023-08-26 10:32:33,145 - INFO - User 'username' logged in.
+2023-08-26 10:32:33,145 - INFO - Loaded data from CSV file.
+2023-08-26 10:32:33,145 - INFO - Performed data preprocessing.
+2023-08-26 10:32:33,145 - INFO - Trained the linear regression model.
+2023-08-26 10:32:33,145 - INFO - Generated predictions using the model.
+2023-08-26 10:32:33,145 - WARNING - Invalid input provided by the user.
+2023-08-26 10:33:51,149 - INFO - User 'username' logged in.
+2023-08-26 10:33:51,150 - INFO - Loaded data from CSV file.
+2023-08-26 10:33:51,150 - INFO - Performed data preprocessing.
+2023-08-26 10:33:51,150 - INFO - Trained the linear regression model.
+2023-08-26 10:33:51,150 - INFO - Generated predictions using the model.
+2023-08-26 10:33:51,150 - WARNING - Invalid input provided by the user.
+2023-08-26 10:38:30,165 - INFO - User 'username' logged in.
+2023-08-26 10:38:30,165 - INFO - Loaded data from CSV file.
+2023-08-26 10:38:30,165 - INFO - Performed data preprocessing.
+2023-08-26 10:38:30,165 - INFO - Trained the linear regression model.
+2023-08-26 10:38:30,165 - INFO - Generated predictions using the model.
+2023-08-26 10:38:30,165 - WARNING - Invalid input provided by the user.
+2023-08-26 11:12:28,812 - INFO - User 'username' logged in.
+2023-08-26 11:12:28,812 - INFO - Loaded data from CSV file.
+2023-08-26 11:12:28,812 - INFO - Performed data preprocessing.
+2023-08-26 11:12:28,812 - INFO - Trained the linear regression model.
+2023-08-26 11:12:28,812 - INFO - Generated predictions using the model.
+2023-08-26 11:12:28,812 - WARNING - Invalid input provided by the user.
+2023-08-26 11:14:38,258 - INFO - User 'username' logged in.
+2023-08-26 11:14:38,258 - INFO - Loaded data from CSV file.
+2023-08-26 11:14:38,258 - INFO - Performed data preprocessing.
+2023-08-26 11:14:38,258 - INFO - Trained the linear regression model.
+2023-08-26 11:14:38,258 - INFO - Generated predictions using the model.
+2023-08-26 11:14:38,258 - WARNING - Invalid input provided by the user.
+2023-08-26 11:16:22,409 - INFO - User 'username' logged in.
+2023-08-26 11:16:22,410 - INFO - Loaded data from CSV file.
+2023-08-26 11:16:22,410 - INFO - Performed data preprocessing.
+2023-08-26 11:16:22,410 - INFO - Trained the linear regression model.
+2023-08-26 11:16:22,410 - INFO - Generated predictions using the model.
+2023-08-26 11:16:22,410 - WARNING - Invalid input provided by the user.
+2023-08-26 11:17:18,386 - INFO - User 'username' logged in.
+2023-08-26 11:17:18,386 - INFO - Loaded data from CSV file.
+2023-08-26 11:17:18,386 - INFO - Performed data preprocessing.
+2023-08-26 11:17:18,386 - INFO - Trained the linear regression model.
+2023-08-26 11:17:18,386 - INFO - Generated predictions using the model.
+2023-08-26 11:17:18,387 - WARNING - Invalid input provided by the user.
+2023-08-26 11:38:21,103 - INFO - User 'username' logged in.
+2023-08-26 11:38:21,103 - INFO - Loaded data from CSV file.
+2023-08-26 11:38:21,103 - INFO - Performed data preprocessing.
+2023-08-26 11:38:21,103 - INFO - Trained the linear regression model.
+2023-08-26 11:38:21,103 - INFO - Generated predictions using the model.
+2023-08-26 11:38:21,103 - WARNING - Invalid input provided by the user.
+2023-08-26 11:45:07,215 - INFO - User 'username' logged in.
+2023-08-26 11:45:07,215 - INFO - Loaded data from CSV file.
+2023-08-26 11:45:07,215 - INFO - Performed data preprocessing.
+2023-08-26 11:45:07,215 - INFO - Trained the linear regression model.
+2023-08-26 11:45:07,215 - INFO - Generated predictions using the model.
+2023-08-26 11:45:07,215 - WARNING - Invalid input provided by the user.
+2023-08-26 11:45:46,443 - INFO - User 'username' logged in.
+2023-08-26 11:45:46,443 - INFO - Loaded data from CSV file.
+2023-08-26 11:45:46,443 - INFO - Performed data preprocessing.
+2023-08-26 11:45:46,443 - INFO - Trained the linear regression model.
+2023-08-26 11:45:46,443 - INFO - Generated predictions using the model.
+2023-08-26 11:45:46,443 - WARNING - Invalid input provided by the user.
+2023-08-26 13:12:18,642 - INFO - User 'username' logged in.
+2023-08-26 13:12:18,642 - INFO - Loaded data from CSV file.
+2023-08-26 13:12:18,642 - INFO - Performed data preprocessing.
+2023-08-26 13:12:18,642 - INFO - Trained the linear regression model.
+2023-08-26 13:12:18,642 - INFO - Generated predictions using the model.
+2023-08-26 13:12:18,642 - WARNING - Invalid input provided by the user.
+2023-08-26 13:24:14,658 - INFO - User 'username' logged in.
+2023-08-26 13:24:14,658 - INFO - Loaded data from CSV file.
+2023-08-26 13:24:14,658 - INFO - Performed data preprocessing.
+2023-08-26 13:24:14,658 - INFO - Trained the linear regression model.
+2023-08-26 13:24:14,658 - INFO - Generated predictions using the model.
+2023-08-26 13:24:14,658 - WARNING - Invalid input provided by the user.
+2023-08-26 13:25:48,513 - INFO - User 'username' logged in.
+2023-08-26 13:25:48,513 - INFO - Loaded data from CSV file.
+2023-08-26 13:25:48,513 - INFO - Performed data preprocessing.
+2023-08-26 13:25:48,513 - INFO - Trained the linear regression model.
+2023-08-26 13:25:48,513 - INFO - Generated predictions using the model.
+2023-08-26 13:25:48,513 - WARNING - Invalid input provided by the user.
+2023-08-27 13:54:10,789 - INFO - User 'username' logged in.
+2023-08-27 13:54:10,789 - INFO - Loaded data from CSV file.
+2023-08-27 13:54:10,789 - INFO - Performed data preprocessing.
+2023-08-27 13:54:10,789 - INFO - Trained the linear regression model.
+2023-08-27 13:54:10,789 - INFO - Generated predictions using the model.
+2023-08-27 13:54:10,789 - WARNING - Invalid input provided by the user.
+2023-08-27 13:55:28,343 - INFO - User 'username' logged in.
+2023-08-27 13:55:28,343 - INFO - Loaded data from CSV file.
+2023-08-27 13:55:28,343 - INFO - Performed data preprocessing.
+2023-08-27 13:55:28,343 - INFO - Trained the linear regression model.
+2023-08-27 13:55:28,343 - INFO - Generated predictions using the model.
+2023-08-27 13:55:28,343 - WARNING - Invalid input provided by the user.
+2023-08-27 13:56:47,193 - INFO - User 'username' logged in.
+2023-08-27 13:56:47,193 - INFO - Loaded data from CSV file.
+2023-08-27 13:56:47,193 - INFO - Performed data preprocessing.
+2023-08-27 13:56:47,193 - INFO - Trained the linear regression model.
+2023-08-27 13:56:47,193 - INFO - Generated predictions using the model.
+2023-08-27 13:56:47,193 - WARNING - Invalid input provided by the user.
+2023-08-27 13:58:00,414 - INFO - User 'username' logged in.
+2023-08-27 13:58:00,415 - INFO - Loaded data from CSV file.
+2023-08-27 13:58:00,415 - INFO - Performed data preprocessing.
+2023-08-27 13:58:00,415 - INFO - Trained the linear regression model.
+2023-08-27 13:58:00,415 - INFO - Generated predictions using the model.
+2023-08-27 13:58:00,415 - WARNING - Invalid input provided by the user.
+2023-08-27 13:58:55,816 - INFO - User 'username' logged in.
+2023-08-27 13:58:55,817 - INFO - Loaded data from CSV file.
+2023-08-27 13:58:55,817 - INFO - Performed data preprocessing.
+2023-08-27 13:58:55,817 - INFO - Trained the linear regression model.
+2023-08-27 13:58:55,817 - INFO - Generated predictions using the model.
+2023-08-27 13:58:55,817 - WARNING - Invalid input provided by the user.
+2023-08-27 14:23:46,535 - INFO - User 'username' logged in.
+2023-08-27 14:23:46,535 - INFO - Loaded data from CSV file.
+2023-08-27 14:23:46,535 - INFO - Performed data preprocessing.
+2023-08-27 14:23:46,535 - INFO - Trained the linear regression model.
+2023-08-27 14:23:46,535 - INFO - Generated predictions using the model.
+2023-08-27 14:23:46,536 - WARNING - Invalid input provided by the user.
+2023-08-27 16:18:57,945 - INFO - User 'username' logged in.
+2023-08-27 16:18:57,945 - INFO - Loaded data from CSV file.
+2023-08-27 16:18:57,945 - INFO - Performed data preprocessing.
+2023-08-27 16:18:57,945 - INFO - Trained the linear regression model.
+2023-08-27 16:18:57,945 - INFO - Generated predictions using the model.
+2023-08-27 16:18:57,945 - WARNING - Invalid input provided by the user.
+2023-08-27 16:19:58,642 - INFO - User 'username' logged in.
+2023-08-27 16:19:58,642 - INFO - Loaded data from CSV file.
+2023-08-27 16:19:58,642 - INFO - Performed data preprocessing.
+2023-08-27 16:19:58,642 - INFO - Trained the linear regression model.
+2023-08-27 16:19:58,642 - INFO - Generated predictions using the model.
+2023-08-27 16:19:58,642 - WARNING - Invalid input provided by the user.
+2023-08-27 16:21:06,473 - INFO - User 'username' logged in.
+2023-08-27 16:21:06,473 - INFO - Loaded data from CSV file.
+2023-08-27 16:21:06,473 - INFO - Performed data preprocessing.
+2023-08-27 16:21:06,473 - INFO - Trained the linear regression model.
+2023-08-27 16:21:06,474 - INFO - Generated predictions using the model.
+2023-08-27 16:21:06,474 - WARNING - Invalid input provided by the user.
+2023-08-27 16:22:27,448 - INFO - User 'username' logged in.
+2023-08-27 16:22:27,448 - INFO - Loaded data from CSV file.
+2023-08-27 16:22:27,448 - INFO - Performed data preprocessing.
+2023-08-27 16:22:27,448 - INFO - Trained the linear regression model.
+2023-08-27 16:22:27,448 - INFO - Generated predictions using the model.
+2023-08-27 16:22:27,448 - WARNING - Invalid input provided by the user.
+2023-08-27 18:58:28,469 - INFO - User 'username' logged in.
+2023-08-27 18:58:28,470 - INFO - Loaded data from CSV file.
+2023-08-27 18:58:28,470 - INFO - Performed data preprocessing.
+2023-08-27 18:58:28,470 - INFO - Trained the linear regression model.
+2023-08-27 18:58:28,470 - INFO - Generated predictions using the model.
+2023-08-27 18:58:28,470 - WARNING - Invalid input provided by the user.
